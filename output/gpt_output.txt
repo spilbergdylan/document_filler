@@ -1,34 +1,26 @@
-```
-1,Last Name,95,763,111,17
-1,First,940,763,50,17
-1,Middle,1401,763,76,17
-1,Home Mailing Address,95,888,229,22
-1,City,940,888,48,22
-1,State,940,947,53,31
-1,ZIP,1321,951,43,17
-1,Telephone Number,162,1013,196,23
-1,E-Mail Address,941,1013,162,17
-1,Pager Number,940,1047,198,22
-1,Home Fax Number,95,1055,193,17
-1,Date of Birth,96,1117,108,18
-1,Citizenship,939,1117,114,23
-1,Alien Registration Card,940,1151,246,22
-1,Place of Birth (City/State/Country),96,1159,314,22
-1,Gender,946,1207,85,34
-1,Social Security,95,1215,141,23
-1,Specialty,95,1276,97,31
-1,Race/Ethnicity,947,1277,152,25
-1,Subspecialties,95,1344,145,23
-1,Practice Name (if applicable),95,1474,283,22
-1,Department Name,946,1474,193,22
-1,Primary Office Address,96,1578,306,22
-1,City,946,1578,48,22
-1,State,946,1637,53,31
-1,ZIP,1321,1641,43,17
-1,Telephone Number,95,1703,192,23
-1,Office Manager/Administrator,95,1755,307,22
-1,Fax Number,949,1807,125,17
-1,Affiliated with,160,1856,144,18
-1,Federal Tax ID Number,949,1858,240,18
-1,Physician Name,102,2137,165,22
+```plaintext
+1,First Name,941,760,117,33
+1,Date of Birth,154,1119,140,18
+1,Home Mailing Address,96,889,238,23
+1,Home City,941,889,49,23
+1,Home State,941,952,54,18
+1,Home ZIP,1322,952,44,18
+1,Home Telephone Number,163,1014,198,24
+1,Home Fax Number,163,1056,127,18
+1,Email Address,941,1014,164,18
+1,Place of Birth (City/State/Country),96,1160,371,23
+1,Social Security #,96,1216,147,24
+1,Gender,947,1212,86,23
+1,Specialty,96,1281,98,24
+1,Subspecialties,96,1345,146,24
+1,Practice Name (if applicable),96,1475,294,23
+1,Department Name (If Hospital Based),947,1475,390,23
+1,Primary Office Street Address,96,1579,308,18
+1,Primary Office City,947,1579,50,23
+1,Primary Office ZIP,1322,1642,44,18
+1,Primary Office Telephone Number,96,1704,199,24
+1,Primary Office Fax Number,947,1705,144,17
+1,Office Manager/Administrator,96,1756,309,24
+1,Affiliated Name,95,1858,68,18
+1,Federal Tax ID Number,949,1859,242,19
 ```
