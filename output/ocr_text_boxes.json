@@ -1,0 +1,1780 @@
+[
+  {
+    "text": "confidential/proprietary",
+    "x": 1132,
+    "y": 71,
+    "width": 484,
+    "height": 21
+  },
+  {
+    "text": "\u00b0",
+    "x": 559,
+    "y": 115,
+    "width": 8,
+    "height": 8
+  },
+  {
+    "text": ".",
+    "x": 668,
+    "y": 115,
+    "width": 8,
+    "height": 8
+  },
+  {
+    "text": "ee",
+    "x": 819,
+    "y": 115,
+    "width": 45,
+    "height": 8
+  },
+  {
+    "text": "\u00b0",
+    "x": 942,
+    "y": 115,
+    "width": 8,
+    "height": 8
+  },
+  {
+    "text": "ee",
+    "x": 1130,
+    "y": 115,
+    "width": 45,
+    "height": 8
+  },
+  {
+    "text": "california",
+    "x": 480,
+    "y": 115,
+    "width": 224,
+    "height": 36
+  },
+  {
+    "text": "participating",
+    "x": 719,
+    "y": 116,
+    "width": 288,
+    "height": 45
+  },
+  {
+    "text": "physician",
+    "x": 1021,
+    "y": 116,
+    "width": 210,
+    "height": 45
+  },
+  {
+    "text": "\u00b0",
+    "x": 840,
+    "y": 178,
+    "width": 8,
+    "height": 7
+  },
+  {
+    "text": "\u00b0",
+    "x": 920,
+    "y": 177,
+    "width": 7,
+    "height": 8
+  },
+  {
+    "text": "application",
+    "x": 728,
+    "y": 178,
+    "width": 256,
+    "height": 46
+  },
+  {
+    "text": "this",
+    "x": 101,
+    "y": 275,
+    "width": 43,
+    "height": 17
+  },
+  {
+    "text": "application",
+    "x": 153,
+    "y": 275,
+    "width": 112,
+    "height": 22
+  },
+  {
+    "text": "is",
+    "x": 274,
+    "y": 275,
+    "width": 15,
+    "height": 17
+  },
+  {
+    "text": "submitted",
+    "x": 297,
+    "y": 275,
+    "width": 99,
+    "height": 17
+  },
+  {
+    "text": "to:",
+    "x": 404,
+    "y": 278,
+    "width": 23,
+    "height": 14
+  },
+  {
+    "text": ",",
+    "x": 832,
+    "y": 290,
+    "width": 3,
+    "height": 5
+  },
+  {
+    "text": "herein,",
+    "x": 843,
+    "y": 275,
+    "width": 66,
+    "height": 21
+  },
+  {
+    "text": "this",
+    "x": 917,
+    "y": 275,
+    "width": 35,
+    "height": 17
+  },
+  {
+    "text": "healthcare",
+    "x": 959,
+    "y": 275,
+    "width": 106,
+    "height": 17
+  },
+  {
+    "text": "organization!",
+    "x": 1073,
+    "y": 270,
+    "width": 135,
+    "height": 27
+  },
+  {
+    "text": "i.",
+    "x": 95,
+    "y": 362,
+    "width": 14,
+    "height": 18
+  },
+  {
+    "text": "instructions:",
+    "x": 129,
+    "y": 361,
+    "width": 203,
+    "height": 19
+  },
+  {
+    "text": "this",
+    "x": 95,
+    "y": 427,
+    "width": 47,
+    "height": 17
+  },
+  {
+    "text": "form",
+    "x": 153,
+    "y": 427,
+    "width": 53,
+    "height": 17
+  },
+  {
+    "text": "should",
+    "x": 217,
+    "y": 428,
+    "width": 72,
+    "height": 16
+  },
+  {
+    "text": "be",
+    "x": 301,
+    "y": 428,
+    "width": 23,
+    "height": 16
+  },
+  {
+    "text": "typed",
+    "x": 334,
+    "y": 428,
+    "width": 61,
+    "height": 21
+  },
+  {
+    "text": "or",
+    "x": 406,
+    "y": 432,
+    "width": 23,
+    "height": 12
+  },
+  {
+    "text": "legibly",
+    "x": 439,
+    "y": 427,
+    "width": 74,
+    "height": 22
+  },
+  {
+    "text": "printed",
+    "x": 523,
+    "y": 427,
+    "width": 82,
+    "height": 22
+  },
+  {
+    "text": "in",
+    "x": 615,
+    "y": 427,
+    "width": 20,
+    "height": 17
+  },
+  {
+    "text": "black",
+    "x": 646,
+    "y": 428,
+    "width": 60,
+    "height": 16
+  },
+  {
+    "text": "or",
+    "x": 716,
+    "y": 432,
+    "width": 23,
+    "height": 12
+  },
+  {
+    "text": "blue",
+    "x": 750,
+    "y": 428,
+    "width": 46,
+    "height": 16
+  },
+  {
+    "text": "ink.",
+    "x": 806,
+    "y": 427,
+    "width": 41,
+    "height": 17
+  },
+  {
+    "text": "if",
+    "x": 865,
+    "y": 427,
+    "width": 18,
+    "height": 17
+  },
+  {
+    "text": "more",
+    "x": 889,
+    "y": 433,
+    "width": 50,
+    "height": 11
+  },
+  {
+    "text": "space",
+    "x": 949,
+    "y": 433,
+    "width": 53,
+    "height": 16
+  },
+  {
+    "text": "is",
+    "x": 1012,
+    "y": 427,
+    "width": 14,
+    "height": 17
+  },
+  {
+    "text": "needed",
+    "x": 1037,
+    "y": 427,
+    "width": 68,
+    "height": 17
+  },
+  {
+    "text": "than",
+    "x": 1113,
+    "y": 427,
+    "width": 42,
+    "height": 17
+  },
+  {
+    "text": "provided",
+    "x": 1162,
+    "y": 427,
+    "width": 87,
+    "height": 22
+  },
+  {
+    "text": "on",
+    "x": 1257,
+    "y": 433,
+    "width": 23,
+    "height": 11
+  },
+  {
+    "text": "original,",
+    "x": 1288,
+    "y": 427,
+    "width": 81,
+    "height": 22
+  },
+  {
+    "text": "attach",
+    "x": 1377,
+    "y": 427,
+    "width": 58,
+    "height": 17
+  },
+  {
+    "text": "additional",
+    "x": 1443,
+    "y": 427,
+    "width": 97,
+    "height": 17
+  },
+  {
+    "text": "sheets",
+    "x": 1549,
+    "y": 427,
+    "width": 58,
+    "height": 17
+  },
+  {
+    "text": "and",
+    "x": 95,
+    "y": 460,
+    "width": 35,
+    "height": 18
+  },
+  {
+    "text": "reference",
+    "x": 139,
+    "y": 460,
+    "width": 91,
+    "height": 18
+  },
+  {
+    "text": "the",
+    "x": 240,
+    "y": 460,
+    "width": 29,
+    "height": 18
+  },
+  {
+    "text": "question",
+    "x": 280,
+    "y": 460,
+    "width": 82,
+    "height": 23
+  },
+  {
+    "text": "being",
+    "x": 372,
+    "y": 460,
+    "width": 54,
+    "height": 23
+  },
+  {
+    "text": "answered.",
+    "x": 436,
+    "y": 460,
+    "width": 98,
+    "height": 18
+  },
+  {
+    "text": "please",
+    "x": 563,
+    "y": 460,
+    "width": 62,
+    "height": 18
+  },
+  {
+    "text": "do",
+    "x": 635,
+    "y": 460,
+    "width": 23,
+    "height": 18
+  },
+  {
+    "text": "not",
+    "x": 668,
+    "y": 463,
+    "width": 31,
+    "height": 15
+  },
+  {
+    "text": "use",
+    "x": 709,
+    "y": 466,
+    "width": 32,
+    "height": 12
+  },
+  {
+    "text": "abbreviations",
+    "x": 751,
+    "y": 460,
+    "width": 132,
+    "height": 18
+  },
+  {
+    "text": "when",
+    "x": 893,
+    "y": 460,
+    "width": 53,
+    "height": 18
+  },
+  {
+    "text": "completing",
+    "x": 957,
+    "y": 460,
+    "width": 110,
+    "height": 23
+  },
+  {
+    "text": "the",
+    "x": 1077,
+    "y": 460,
+    "width": 29,
+    "height": 18
+  },
+  {
+    "text": "application.",
+    "x": 1116,
+    "y": 460,
+    "width": 114,
+    "height": 23
+  },
+  {
+    "text": "current",
+    "x": 1251,
+    "y": 460,
+    "width": 90,
+    "height": 18
+  },
+  {
+    "text": "copies",
+    "x": 1351,
+    "y": 460,
+    "width": 67,
+    "height": 23
+  },
+  {
+    "text": "of",
+    "x": 1429,
+    "y": 460,
+    "width": 23,
+    "height": 18
+  },
+  {
+    "text": "the",
+    "x": 1460,
+    "y": 461,
+    "width": 33,
+    "height": 17
+  },
+  {
+    "text": "following",
+    "x": 1504,
+    "y": 460,
+    "width": 103,
+    "height": 23
+  },
+  {
+    "text": "documents",
+    "x": 95,
+    "y": 494,
+    "width": 117,
+    "height": 17
+  },
+  {
+    "text": "must",
+    "x": 221,
+    "y": 495,
+    "width": 52,
+    "height": 16
+  },
+  {
+    "text": "be",
+    "x": 282,
+    "y": 494,
+    "width": 23,
+    "height": 17
+  },
+  {
+    "text": "submitted",
+    "x": 314,
+    "y": 494,
+    "width": 108,
+    "height": 17
+  },
+  {
+    "text": "with",
+    "x": 431,
+    "y": 494,
+    "width": 47,
+    "height": 17
+  },
+  {
+    "text": "this",
+    "x": 486,
+    "y": 494,
+    "width": 39,
+    "height": 17
+  },
+  {
+    "text": "application:",
+    "x": 534,
+    "y": 494,
+    "width": 131,
+    "height": 22
+  },
+  {
+    "text": "*state",
+    "x": 97,
+    "y": 560,
+    "width": 58,
+    "height": 18
+  },
+  {
+    "text": "medical",
+    "x": 163,
+    "y": 560,
+    "width": 79,
+    "height": 18
+  },
+  {
+    "text": "license(s)",
+    "x": 250,
+    "y": 560,
+    "width": 102,
+    "height": 22
+  },
+  {
+    "text": "face",
+    "x": 769,
+    "y": 561,
+    "width": 55,
+    "height": 17
+  },
+  {
+    "text": "sheet",
+    "x": 833,
+    "y": 560,
+    "width": 53,
+    "height": 18
+  },
+  {
+    "text": "of",
+    "x": 893,
+    "y": 560,
+    "width": 23,
+    "height": 18
+  },
+  {
+    "text": "professional",
+    "x": 920,
+    "y": 560,
+    "width": 121,
+    "height": 18
+  },
+  {
+    "text": "liability",
+    "x": 1049,
+    "y": 560,
+    "width": 84,
+    "height": 23
+  },
+  {
+    "text": "policy",
+    "x": 1141,
+    "y": 560,
+    "width": 62,
+    "height": 23
+  },
+  {
+    "text": "or",
+    "x": 1211,
+    "y": 566,
+    "width": 20,
+    "height": 12
+  },
+  {
+    "text": "certification",
+    "x": 1238,
+    "y": 560,
+    "width": 123,
+    "height": 18
+  },
+  {
+    "text": "*dea",
+    "x": 97,
+    "y": 596,
+    "width": 60,
+    "height": 17
+  },
+  {
+    "text": "certificate",
+    "x": 165,
+    "y": 596,
+    "width": 103,
+    "height": 18
+  },
+  {
+    "text": "\u00abcurriculum",
+    "x": 767,
+    "y": 596,
+    "width": 121,
+    "height": 18
+  },
+  {
+    "text": "vitae",
+    "x": 896,
+    "y": 596,
+    "width": 50,
+    "height": 18
+  },
+  {
+    "text": "*board",
+    "x": 97,
+    "y": 631,
+    "width": 70,
+    "height": 18
+  },
+  {
+    "text": "certification",
+    "x": 174,
+    "y": 631,
+    "width": 124,
+    "height": 18
+  },
+  {
+    "text": "(if",
+    "x": 306,
+    "y": 631,
+    "width": 25,
+    "height": 22
+  },
+  {
+    "text": "applicable)",
+    "x": 335,
+    "y": 631,
+    "width": 108,
+    "height": 23
+  },
+  {
+    "text": "*ecfmg",
+    "x": 767,
+    "y": 632,
+    "width": 94,
+    "height": 17
+  },
+  {
+    "text": "(if",
+    "x": 876,
+    "y": 631,
+    "width": 26,
+    "height": 23
+  },
+  {
+    "text": "applicable)",
+    "x": 906,
+    "y": 631,
+    "width": 111,
+    "height": 23
+  },
+  {
+    "text": "il.",
+    "x": 95,
+    "y": 697,
+    "width": 22,
+    "height": 18
+  },
+  {
+    "text": "identifying",
+    "x": 131,
+    "y": 697,
+    "width": 164,
+    "height": 18
+  },
+  {
+    "text": "information",
+    "x": 303,
+    "y": 697,
+    "width": 184,
+    "height": 19
+  },
+  {
+    "text": "is",
+    "x": 95,
+    "y": 826,
+    "width": 16,
+    "height": 17
+  },
+  {
+    "text": "there",
+    "x": 119,
+    "y": 825,
+    "width": 48,
+    "height": 18
+  },
+  {
+    "text": "any",
+    "x": 175,
+    "y": 831,
+    "width": 35,
+    "height": 17
+  },
+  {
+    "text": "other",
+    "x": 217,
+    "y": 825,
+    "width": 51,
+    "height": 18
+  },
+  {
+    "text": "name",
+    "x": 274,
+    "y": 831,
+    "width": 53,
+    "height": 12
+  },
+  {
+    "text": "under",
+    "x": 334,
+    "y": 825,
+    "width": 57,
+    "height": 18
+  },
+  {
+    "text": "which",
+    "x": 397,
+    "y": 825,
+    "width": 60,
+    "height": 18
+  },
+  {
+    "text": "you",
+    "x": 465,
+    "y": 831,
+    "width": 36,
+    "height": 17
+  },
+  {
+    "text": "have",
+    "x": 508,
+    "y": 825,
+    "width": 46,
+    "height": 18
+  },
+  {
+    "text": "been",
+    "x": 562,
+    "y": 825,
+    "width": 45,
+    "height": 18
+  },
+  {
+    "text": "known?",
+    "x": 615,
+    "y": 825,
+    "width": 77,
+    "height": 18
+  },
+  {
+    "text": "name",
+    "x": 700,
+    "y": 826,
+    "width": 59,
+    "height": 17
+  },
+  {
+    "text": "(s):",
+    "x": 767,
+    "y": 825,
+    "width": 30,
+    "height": 22
+  },
+  {
+    "text": "home",
+    "x": 95,
+    "y": 1014,
+    "width": 59,
+    "height": 17
+  },
+  {
+    "text": "telephone",
+    "x": 162,
+    "y": 1013,
+    "width": 103,
+    "height": 23
+  },
+  {
+    "text": "number:",
+    "x": 274,
+    "y": 1013,
+    "width": 85,
+    "height": 18
+  },
+  {
+    "text": "(__)",
+    "x": 374,
+    "y": 1013,
+    "width": 52,
+    "height": 22
+  },
+  {
+    "text": "e-mail",
+    "x": 940,
+    "y": 1013,
+    "width": 68,
+    "height": 17
+  },
+  {
+    "text": "address:",
+    "x": 1016,
+    "y": 1013,
+    "width": 87,
+    "height": 18
+  },
+  {
+    "text": "home",
+    "x": 94,
+    "y": 1055,
+    "width": 59,
+    "height": 17
+  },
+  {
+    "text": "fax",
+    "x": 161,
+    "y": 1055,
+    "width": 36,
+    "height": 17
+  },
+  {
+    "text": "number:",
+    "x": 203,
+    "y": 1054,
+    "width": 85,
+    "height": 18
+  },
+  {
+    "text": "(__)",
+    "x": 304,
+    "y": 1055,
+    "width": 52,
+    "height": 22
+  },
+  {
+    "text": "pager",
+    "x": 939,
+    "y": 1047,
+    "width": 56,
+    "height": 22
+  },
+  {
+    "text": "number:",
+    "x": 1001,
+    "y": 1046,
+    "width": 84,
+    "height": 18
+  },
+  {
+    "text": "(",
+    "x": 1104,
+    "y": 1046,
+    "width": 3,
+    "height": 22
+  },
+  {
+    "text": ")",
+    "x": 1146,
+    "y": 1046,
+    "width": 6,
+    "height": 23
+  },
+  {
+    "text": "birth",
+    "x": 95,
+    "y": 1117,
+    "width": 49,
+    "height": 18
+  },
+  {
+    "text": "date:",
+    "x": 153,
+    "y": 1118,
+    "width": 51,
+    "height": 17
+  },
+  {
+    "text": "citizenship",
+    "x": 939,
+    "y": 1117,
+    "width": 114,
+    "height": 23
+  },
+  {
+    "text": "(if",
+    "x": 1061,
+    "y": 1117,
+    "width": 24,
+    "height": 23
+  },
+  {
+    "text": "not",
+    "x": 1095,
+    "y": 1120,
+    "width": 29,
+    "height": 15
+  },
+  {
+    "text": "a",
+    "x": 1131,
+    "y": 1123,
+    "width": 10,
+    "height": 12
+  },
+  {
+    "text": "united",
+    "x": 1149,
+    "y": 1117,
+    "width": 67,
+    "height": 18
+  },
+  {
+    "text": "states",
+    "x": 1224,
+    "y": 1117,
+    "width": 58,
+    "height": 18
+  },
+  {
+    "text": "citizen,",
+    "x": 1290,
+    "y": 1117,
+    "width": 72,
+    "height": 21
+  },
+  {
+    "text": "please",
+    "x": 1370,
+    "y": 1117,
+    "width": 62,
+    "height": 23
+  },
+  {
+    "text": "include",
+    "x": 1440,
+    "y": 1117,
+    "width": 72,
+    "height": 18
+  },
+  {
+    "text": "copy",
+    "x": 1520,
+    "y": 1123,
+    "width": 48,
+    "height": 17
+  },
+  {
+    "text": "of",
+    "x": 1576,
+    "y": 1117,
+    "width": 22,
+    "height": 18
+  },
+  {
+    "text": "birth",
+    "x": 94,
+    "y": 1159,
+    "width": 51,
+    "height": 17
+  },
+  {
+    "text": "place",
+    "x": 153,
+    "y": 1159,
+    "width": 53,
+    "height": 17
+  },
+  {
+    "text": "(city/state/country):",
+    "x": 214,
+    "y": 1159,
+    "width": 211,
+    "height": 22
+  },
+  {
+    "text": "alien",
+    "x": 939,
+    "y": 1150,
+    "width": 54,
+    "height": 18
+  },
+  {
+    "text": "registration",
+    "x": 1000,
+    "y": 1150,
+    "width": 120,
+    "height": 23
+  },
+  {
+    "text": "card).",
+    "x": 1127,
+    "y": 1150,
+    "width": 60,
+    "height": 23
+  },
+  {
+    "text": "social",
+    "x": 95,
+    "y": 1215,
+    "width": 58,
+    "height": 18
+  },
+  {
+    "text": "security",
+    "x": 162,
+    "y": 1215,
+    "width": 80,
+    "height": 23
+  },
+  {
+    "text": "#:",
+    "x": 249,
+    "y": 1215,
+    "width": 16,
+    "height": 18
+  },
+  {
+    "text": "gender\u2019:",
+    "x": 946,
+    "y": 1207,
+    "width": 85,
+    "height": 34
+  },
+  {
+    "text": "oo",
+    "x": 1096,
+    "y": 1202,
+    "width": 34,
+    "height": 39
+  },
+  {
+    "text": "male",
+    "x": 1165,
+    "y": 1211,
+    "width": 50,
+    "height": 30
+  },
+  {
+    "text": "o",
+    "x": 1449,
+    "y": 1206,
+    "width": 29,
+    "height": 30
+  },
+  {
+    "text": "female",
+    "x": 1518,
+    "y": 1215,
+    "width": 69,
+    "height": 18
+  },
+  {
+    "text": "specialty:",
+    "x": 95,
+    "y": 1275,
+    "width": 97,
+    "height": 32
+  },
+  {
+    "text": "race/ethnicity*",
+    "x": 946,
+    "y": 1277,
+    "width": 154,
+    "height": 25
+  },
+  {
+    "text": "(voluntary):",
+    "x": 1109,
+    "y": 1279,
+    "width": 117,
+    "height": 24
+  },
+  {
+    "text": "subspecialties:",
+    "x": 95,
+    "y": 1344,
+    "width": 145,
+    "height": 23
+  },
+  {
+    "text": "if.",
+    "x": 95,
+    "y": 1408,
+    "width": 32,
+    "height": 19
+  },
+  {
+    "text": "practice",
+    "x": 140,
+    "y": 1408,
+    "width": 130,
+    "height": 19
+  },
+  {
+    "text": "information",
+    "x": 277,
+    "y": 1408,
+    "width": 187,
+    "height": 19
+  },
+  {
+    "text": "practice",
+    "x": 94,
+    "y": 1474,
+    "width": 78,
+    "height": 17
+  },
+  {
+    "text": "name",
+    "x": 179,
+    "y": 1474,
+    "width": 59,
+    "height": 17
+  },
+  {
+    "text": "(if",
+    "x": 246,
+    "y": 1474,
+    "width": 24,
+    "height": 22
+  },
+  {
+    "text": "applicable):",
+    "x": 275,
+    "y": 1474,
+    "width": 113,
+    "height": 22
+  },
+  {
+    "text": "department",
+    "x": 946,
+    "y": 1474,
+    "width": 118,
+    "height": 22
+  },
+  {
+    "text": "name",
+    "x": 1071,
+    "y": 1474,
+    "width": 59,
+    "height": 17
+  },
+  {
+    "text": "(if",
+    "x": 1138,
+    "y": 1474,
+    "width": 27,
+    "height": 22
+  },
+  {
+    "text": "hospital",
+    "x": 1169,
+    "y": 1474,
+    "width": 84,
+    "height": 22
+  },
+  {
+    "text": "based):",
+    "x": 1261,
+    "y": 1474,
+    "width": 74,
+    "height": 22
+  },
+  {
+    "text": "telephone",
+    "x": 95,
+    "y": 1703,
+    "width": 103,
+    "height": 23
+  },
+  {
+    "text": "number:",
+    "x": 206,
+    "y": 1703,
+    "width": 86,
+    "height": 18
+  },
+  {
+    "text": "(_",
+    "x": 308,
+    "y": 1703,
+    "width": 6,
+    "height": 21
+  },
+  {
+    "text": ")",
+    "x": 353,
+    "y": 1703,
+    "width": 7,
+    "height": 22
+  },
+  {
+    "text": "fax",
+    "x": 947,
+    "y": 1704,
+    "width": 34,
+    "height": 17
+  },
+  {
+    "text": "number:",
+    "x": 987,
+    "y": 1703,
+    "width": 86,
+    "height": 18
+  },
+  {
+    "text": "()",
+    "x": 1088,
+    "y": 1703,
+    "width": 52,
+    "height": 22
+  },
+  {
+    "text": "office",
+    "x": 95,
+    "y": 1754,
+    "width": 61,
+    "height": 18
+  },
+  {
+    "text": "manager/administrator:",
+    "x": 164,
+    "y": 1754,
+    "width": 239,
+    "height": 23
+  },
+  {
+    "text": "telephone",
+    "x": 946,
+    "y": 1754,
+    "width": 104,
+    "height": 23
+  },
+  {
+    "text": "number:",
+    "x": 1057,
+    "y": 1754,
+    "width": 86,
+    "height": 18
+  },
+  {
+    "text": "(__)",
+    "x": 1159,
+    "y": 1755,
+    "width": 52,
+    "height": 22
+  },
+  {
+    "text": "fax",
+    "x": 948,
+    "y": 1807,
+    "width": 34,
+    "height": 17
+  },
+  {
+    "text": "number:",
+    "x": 990,
+    "y": 1806,
+    "width": 85,
+    "height": 18
+  },
+  {
+    "text": "(__)",
+    "x": 1090,
+    "y": 1806,
+    "width": 52,
+    "height": 22
+  },
+  {
+    "text": "name",
+    "x": 94,
+    "y": 1857,
+    "width": 58,
+    "height": 17
+  },
+  {
+    "text": "affiliated",
+    "x": 160,
+    "y": 1856,
+    "width": 95,
+    "height": 18
+  },
+  {
+    "text": "with",
+    "x": 262,
+    "y": 1856,
+    "width": 42,
+    "height": 18
+  },
+  {
+    "text": "tax",
+    "x": 312,
+    "y": 1857,
+    "width": 37,
+    "height": 17
+  },
+  {
+    "text": "id",
+    "x": 358,
+    "y": 1857,
+    "width": 24,
+    "height": 16
+  },
+  {
+    "text": "number:",
+    "x": 390,
+    "y": 1856,
+    "width": 85,
+    "height": 18
+  },
+  {
+    "text": "federal",
+    "x": 949,
+    "y": 1858,
+    "width": 70,
+    "height": 18
+  },
+  {
+    "text": "tax",
+    "x": 1027,
+    "y": 1859,
+    "width": 37,
+    "height": 17
+  },
+  {
+    "text": "id",
+    "x": 1073,
+    "y": 1859,
+    "width": 23,
+    "height": 16
+  },
+  {
+    "text": "number:",
+    "x": 1104,
+    "y": 1858,
+    "width": 85,
+    "height": 18
+  },
+  {
+    "text": "1",
+    "x": 111,
+    "y": 1917,
+    "width": 3,
+    "height": 11
+  },
+  {
+    "text": "as",
+    "x": 118,
+    "y": 1932,
+    "width": 18,
+    "height": 11
+  },
+  {
+    "text": "used",
+    "x": 141,
+    "y": 1932,
+    "width": 31,
+    "height": 11
+  },
+  {
+    "text": "in",
+    "x": 178,
+    "y": 1935,
+    "width": 10,
+    "height": 8
+  },
+  {
+    "text": "the",
+    "x": 194,
+    "y": 1931,
+    "width": 20,
+    "height": 12
+  },
+  {
+    "text": "information",
+    "x": 220,
+    "y": 1931,
+    "width": 80,
+    "height": 12
+  },
+  {
+    "text": "release/acknowledgments",
+    "x": 305,
+    "y": 1931,
+    "width": 185,
+    "height": 16
+  },
+  {
+    "text": "section",
+    "x": 496,
+    "y": 1932,
+    "width": 49,
+    "height": 11
+  },
+  {
+    "text": "of",
+    "x": 555,
+    "y": 1932,
+    "width": 13,
+    "height": 11
+  },
+  {
+    "text": "this",
+    "x": 574,
+    "y": 1932,
+    "width": 23,
+    "height": 11
+  },
+  {
+    "text": "application,",
+    "x": 602,
+    "y": 1932,
+    "width": 79,
+    "height": 14
+  },
+  {
+    "text": "the",
+    "x": 687,
+    "y": 1931,
+    "width": 20,
+    "height": 12
+  },
+  {
+    "text": "term",
+    "x": 712,
+    "y": 1934,
+    "width": 30,
+    "height": 9
+  },
+  {
+    "text": "\"this",
+    "x": 748,
+    "y": 1932,
+    "width": 30,
+    "height": 11
+  },
+  {
+    "text": "healthcare",
+    "x": 784,
+    "y": 1931,
+    "width": 72,
+    "height": 12
+  },
+  {
+    "text": "organization\"",
+    "x": 862,
+    "y": 1932,
+    "width": 94,
+    "height": 15
+  },
+  {
+    "text": "shall",
+    "x": 962,
+    "y": 1931,
+    "width": 31,
+    "height": 12
+  },
+  {
+    "text": "refer",
+    "x": 999,
+    "y": 1933,
+    "width": 32,
+    "height": 10
+  },
+  {
+    "text": "to",
+    "x": 1036,
+    "y": 1933,
+    "width": 12,
+    "height": 10
+  },
+  {
+    "text": "the",
+    "x": 1053,
+    "y": 1931,
+    "width": 19,
+    "height": 12
+  },
+  {
+    "text": "entity",
+    "x": 1078,
+    "y": 1933,
+    "width": 38,
+    "height": 14
+  },
+  {
+    "text": "to",
+    "x": 1120,
+    "y": 1933,
+    "width": 11,
+    "height": 10
+  },
+  {
+    "text": "which",
+    "x": 1137,
+    "y": 1931,
+    "width": 39,
+    "height": 12
+  },
+  {
+    "text": "this",
+    "x": 1182,
+    "y": 1931,
+    "width": 23,
+    "height": 12
+  },
+  {
+    "text": "application",
+    "x": 1211,
+    "y": 1932,
+    "width": 73,
+    "height": 14
+  },
+  {
+    "text": "is",
+    "x": 1290,
+    "y": 1931,
+    "width": 10,
+    "height": 12
+  },
+  {
+    "text": "submitted",
+    "x": 1306,
+    "y": 1931,
+    "width": 65,
+    "height": 12
+  },
+  {
+    "text": "as",
+    "x": 1376,
+    "y": 1935,
+    "width": 13,
+    "height": 8
+  },
+  {
+    "text": "identified",
+    "x": 1395,
+    "y": 1931,
+    "width": 63,
+    "height": 12
+  },
+  {
+    "text": "above.",
+    "x": 1463,
+    "y": 1932,
+    "width": 39,
+    "height": 11
+  },
+  {
+    "text": "*",
+    "x": 106,
+    "y": 1980,
+    "width": 7,
+    "height": 40
+  },
+  {
+    "text": "-this",
+    "x": 124,
+    "y": 1998,
+    "width": 30,
+    "height": 12
+  },
+  {
+    "text": "information",
+    "x": 160,
+    "y": 1998,
+    "width": 79,
+    "height": 12
+  },
+  {
+    "text": "will",
+    "x": 245,
+    "y": 1998,
+    "width": 25,
+    "height": 12
+  },
+  {
+    "text": "be",
+    "x": 276,
+    "y": 1998,
+    "width": 15,
+    "height": 12
+  },
+  {
+    "text": "used",
+    "x": 296,
+    "y": 1998,
+    "width": 31,
+    "height": 12
+  },
+  {
+    "text": "for",
+    "x": 333,
+    "y": 1998,
+    "width": 19,
+    "height": 12
+  },
+  {
+    "text": "consumer",
+    "x": 357,
+    "y": 2002,
+    "width": 66,
+    "height": 8
+  },
+  {
+    "text": "information",
+    "x": 429,
+    "y": 1998,
+    "width": 79,
+    "height": 12
+  },
+  {
+    "text": "purposes",
+    "x": 514,
+    "y": 2002,
+    "width": 60,
+    "height": 11
+  },
+  {
+    "text": "only.",
+    "x": 579,
+    "y": 1998,
+    "width": 34,
+    "height": 16
+  },
+  {
+    "text": "eee",
+    "x": 75,
+    "y": 2023,
+    "width": 267,
+    "height": 23
+  },
+  {
+    "text": "ee",
+    "x": 364,
+    "y": 2023,
+    "width": 9,
+    "height": 23
+  },
+  {
+    "text": "eee",
+    "x": 375,
+    "y": 2023,
+    "width": 19,
+    "height": 23
+  },
+  {
+    "text": "eee",
+    "x": 398,
+    "y": 2023,
+    "width": 15,
+    "height": 23
+  },
+  {
+    "text": "eee",
+    "x": 79,
+    "y": 2027,
+    "width": 1560,
+    "height": 11
+  },
+  {
+    "text": "california",
+    "x": 101,
+    "y": 2070,
+    "width": 101,
+    "height": 18
+  },
+  {
+    "text": "participating",
+    "x": 209,
+    "y": 2070,
+    "width": 126,
+    "height": 23
+  },
+  {
+    "text": "physician",
+    "x": 343,
+    "y": 2070,
+    "width": 95,
+    "height": 23
+  },
+  {
+    "text": "application",
+    "x": 446,
+    "y": 2070,
+    "width": 116,
+    "height": 23
+  },
+  {
+    "text": "-",
+    "x": 570,
+    "y": 2081,
+    "width": 7,
+    "height": 2
+  },
+  {
+    "text": "05/97",
+    "x": 585,
+    "y": 2070,
+    "width": 54,
+    "height": 18
+  },
+  {
+    "text": "page",
+    "x": 1407,
+    "y": 2071,
+    "width": 45,
+    "height": 22
+  },
+  {
+    "text": "1",
+    "x": 1461,
+    "y": 2071,
+    "width": 5,
+    "height": 16
+  },
+  {
+    "text": "of",
+    "x": 1478,
+    "y": 2070,
+    "width": 22,
+    "height": 18
+  },
+  {
+    "text": "10",
+    "x": 1507,
+    "y": 2071,
+    "width": 21,
+    "height": 17
+  },
+  {
+    "text": "physician",
+    "x": 101,
+    "y": 2137,
+    "width": 95,
+    "height": 22
+  },
+  {
+    "text": "name:",
+    "x": 204,
+    "y": 2138,
+    "width": 63,
+    "height": 16
+  }
+]

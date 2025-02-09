@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+opencv-python
+pillow
+numpy
+pytesseract
+pdfplumber
+matplotlib

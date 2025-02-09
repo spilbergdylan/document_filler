@@ -1,0 +1,354 @@
+[
+  {
+    "label": "Last Name",
+    "type": "text",
+    "context": "Last Name:",
+    "location": {
+      "x": 145,
+      "y": 763,
+      "width": 200,
+      "height": 17
+    }
+  },
+  {
+    "label": "First Name",
+    "type": "text",
+    "context": "First:",
+    "location": {
+      "x": 337,
+      "y": 831,
+      "width": 200,
+      "height": 12
+    }
+  },
+  {
+    "label": "Middle Name",
+    "type": "text",
+    "context": "Middle:",
+    "location": {
+      "x": 337,
+      "y": 831,
+      "width": 200,
+      "height": 12
+    }
+  },
+  {
+    "label": "Other Known Names",
+    "type": "text",
+    "context": "Is there any other name under which you have been known\u201d? Name (s):",
+    "location": {
+      "x": 277,
+      "y": 825,
+      "width": 200,
+      "height": 18
+    }
+  },
+  {
+    "label": "Home Mailing Address",
+    "type": "text",
+    "context": "Home Mailing Address:",
+    "location": {
+      "x": 644,
+      "y": 427,
+      "width": 200,
+      "height": 17
+    }
+  },
+  {
+    "label": "City",
+    "type": "text",
+    "context": "City:",
+    "location": {
+      "x": 998,
+      "y": 888,
+      "width": 200,
+      "height": 22
+    }
+  },
+  {
+    "label": "State",
+    "type": "text",
+    "context": "State:",
+    "location": {
+      "x": 165,
+      "y": 561,
+      "width": 200,
+      "height": 17
+    }
+  },
+  {
+    "label": "ZIP",
+    "type": "text",
+    "context": "ZIP:",
+    "location": {
+      "x": 1374,
+      "y": 951,
+      "width": 200,
+      "height": 17
+    }
+  },
+  {
+    "label": "Home Telephone Number",
+    "type": "text",
+    "context": "Home Telephone Number: ( )",
+    "location": {
+      "x": 334,
+      "y": 428,
+      "width": 200,
+      "height": 16
+    }
+  },
+  {
+    "label": "Home Fax Number",
+    "type": "text",
+    "context": "Home Fax Number: ( )",
+    "location": {
+      "x": 334,
+      "y": 428,
+      "width": 200,
+      "height": 16
+    }
+  },
+  {
+    "label": "E-Mail Address",
+    "type": "text",
+    "context": "E-Mail Address:",
+    "location": {
+      "x": 1017,
+      "y": 1013,
+      "width": 200,
+      "height": 17
+    }
+  },
+  {
+    "label": "Pager Number",
+    "type": "text",
+    "context": "Pager Number: ( )",
+    "location": {
+      "x": 334,
+      "y": 428,
+      "width": 200,
+      "height": 16
+    }
+  },
+  {
+    "label": "Birth Date",
+    "type": "date",
+    "context": "Birth Date:",
+    "location": {
+      "x": 154,
+      "y": 1117,
+      "width": 200,
+      "height": 18
+    }
+  },
+  {
+    "label": "Birth Place",
+    "type": "text",
+    "context": "Birth Place (City/State\u2018Country):",
+    "location": {
+      "x": 154,
+      "y": 1117,
+      "width": 200,
+      "height": 18
+    }
+  },
+  {
+    "label": "Social Security Number",
+    "type": "text",
+    "context": "Social Security #:",
+    "location": {
+      "x": 334,
+      "y": 428,
+      "width": 200,
+      "height": 16
+    }
+  },
+  {
+    "label": "Citizenship",
+    "type": "text",
+    "context": "Citizenship (If not a United States citizen, please include copy of Alien Registration Card).",
+    "location": {
+      "x": 1063,
+      "y": 1117,
+      "width": 200,
+      "height": 23
+    }
+  },
+  {
+    "label": "Gender",
+    "type": "yes/no",
+    "context": "Gender: oO Male in| Female",
+    "location": {
+      "x": 1041,
+      "y": 1207,
+      "width": 200,
+      "height": 33
+    }
+  },
+  {
+    "label": "Specialty",
+    "type": "text",
+    "context": "Specialty:",
+    "location": {
+      "x": 1150,
+      "y": 1123,
+      "width": 200,
+      "height": 12
+    }
+  },
+  {
+    "label": "Race/Ethnicity",
+    "type": "text",
+    "context": "Race/Ethnicity\u201d (voluntary):",
+    "location": {
+      "x": 1150,
+      "y": 1123,
+      "width": 200,
+      "height": 12
+    }
+  },
+  {
+    "label": "Practice Name",
+    "type": "text",
+    "context": "Practice Name (if applicable):",
+    "location": {
+      "x": 337,
+      "y": 831,
+      "width": 200,
+      "height": 12
+    }
+  },
+  {
+    "label": "Department Name",
+    "type": "text",
+    "context": "Department Name (If Hospital Based):",
+    "location": {
+      "x": 337,
+      "y": 831,
+      "width": 200,
+      "height": 12
+    }
+  },
+  {
+    "label": "Primary Office Street Address",
+    "type": "text",
+    "context": "Primary Office Street Address:",
+    "location": {
+      "x": 1462,
+      "y": 461,
+      "width": 200,
+      "height": 16
+    }
+  },
+  {
+    "label": "City",
+    "type": "text",
+    "context": "City:",
+    "location": {
+      "x": 998,
+      "y": 888,
+      "width": 200,
+      "height": 22
+    }
+  },
+  {
+    "label": "State",
+    "type": "text",
+    "context": "State:",
+    "location": {
+      "x": 165,
+      "y": 561,
+      "width": 200,
+      "height": 17
+    }
+  },
+  {
+    "label": "ZIP",
+    "type": "text",
+    "context": "ZIP:",
+    "location": {
+      "x": 1374,
+      "y": 951,
+      "width": 200,
+      "height": 17
+    }
+  },
+  {
+    "label": "Telephone Number",
+    "type": "text",
+    "context": "Telephone Number: ( )",
+    "location": {
+      "x": 334,
+      "y": 428,
+      "width": 200,
+      "height": 16
+    }
+  },
+  {
+    "label": "Fax Number",
+    "type": "text",
+    "context": "Fax Number: ( )",
+    "location": {
+      "x": 334,
+      "y": 428,
+      "width": 200,
+      "height": 16
+    }
+  },
+  {
+    "label": "Office Manager/Administrator",
+    "type": "text",
+    "context": "Office Manager/Administrator:",
+    "location": {
+      "x": 298,
+      "y": 275,
+      "width": 200,
+      "height": 17
+    }
+  },
+  {
+    "label": "Office Manager/Administrator Telephone Number",
+    "type": "text",
+    "context": "Telephone Number: ( )",
+    "location": {
+      "x": 298,
+      "y": 275,
+      "width": 200,
+      "height": 17
+    }
+  },
+  {
+    "label": "Office Manager/Administrator Fax Number",
+    "type": "text",
+    "context": "Fax Number: ( )",
+    "location": {
+      "x": 298,
+      "y": 275,
+      "width": 200,
+      "height": 17
+    }
+  },
+  {
+    "label": "Name Affiliated with Tax ID Number",
+    "type": "text",
+    "context": "Name Affiliated with Tax [ID Number:",
+    "location": {
+      "x": 337,
+      "y": 831,
+      "width": 200,
+      "height": 12
+    }
+  },
+  {
+    "label": "Federal Tax ID Number",
+    "type": "text",
+    "context": "Federal Tax ID Number:",
+    "location": {
+      "x": 334,
+      "y": 428,
+      "width": 200,
+      "height": 16
+    }
+  }
+]
